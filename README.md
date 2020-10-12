@@ -1,12 +1,12 @@
 # cPanel-add_pop
 Allows visitors to add a free POP3/IMAP email account via the cPanel API, adds their information to a MySql database, and emails the site admin.
 
-Requirements:
+# Requirements:
   - cPanel Access
   - At least one (1) MySql database available
   - PHP with Curl
 
-Installation:
+# Installation:
   - Create an API token in cPanel
   - Open config.php with your favorite PHP editor (IE: Notepad)
   - Edit the config variables to suit your needs
